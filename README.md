@@ -1,7 +1,4 @@
-# vulnmachine
-This bash script will create a vuln linux machine for you, run it on Ubuntu vm and it will install vuln packages to the vm.
-
-Sure, here's a `README.md` formatted for your GitHub repository:
+Here's the updated `README.md` file for your GitHub repository:
 
 ```markdown
 # Vulnerable Machine Setup Script
@@ -18,8 +15,8 @@ This repository contains a bash script to set up a vulnerable Ubuntu virtual mac
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/vulnerable-machine-setup.git
-   cd vulnerable-machine-setup
+   git clone https://github.com/randumduck/vulnmachine.git
+   cd vulnmachine
    ```
 
 2. **Make the script executable**:
@@ -82,5 +79,3 @@ If you have suggestions or improvements, feel free to open an issue or submit a 
 
 This project is licensed under the MIT License. See the LICENSE file for details.
 ```
-
-Feel free to copy and paste this into your `README.md` file on GitHub. If you need any more adjustments or additional information, just let me know!
