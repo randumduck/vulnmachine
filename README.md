@@ -78,4 +78,3 @@ If you have suggestions or improvements, feel free to open an issue or submit a 
 ## License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
-```
